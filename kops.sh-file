@@ -1,5 +1,5 @@
-Create file vi kops.sh and copy all the following script
-=========================================================
+#Create file vi kops.sh and copy all the following script
+#=========================================================
 
 #!/bin/bash
 
